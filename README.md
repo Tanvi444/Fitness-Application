@@ -1,5 +1,7 @@
 # Fitness Application
 
+![image](https://github.com/user-attachments/assets/98007030-83f5-4c4d-8297-953d0c5d7a03)
+
 A simple application for displaying and searching different exercise for different body parts. This project uses an external API (Rapid API) and using Fetch API it fetches different types of exercises, for over 20 exercises. Users can also search and apply filters for 10 body part categories, and search for specific exercise that best suits their need.
 
 ## ⚙️ Tech Stack
